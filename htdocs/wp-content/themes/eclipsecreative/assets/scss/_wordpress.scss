@@ -1,0 +1,17 @@
+// Wordpress styles to match old compass theme
+
+// Import your custom styles
+@import "main";
+
+// Common
+@import "wordpress/common/colours",
+		"wordpress/common/fonts",
+		"wordpress/common/forms";
+
+// Layout
+@import "wordpress/layout/header",
+		"wordpress/layout/footer";
+
+// Partials
+
+// Templates
